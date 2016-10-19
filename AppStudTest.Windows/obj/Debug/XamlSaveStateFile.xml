@@ -1,0 +1,17 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\arca\documents\visual studio 2015\projects\appstudtest\appstudtest\appstudtest.windows\obj\debug\intermediatexaml\appstudtest.windows.exe" HashGuid="6eb5874c-d04d-8bd6-ca65-da6a779b3c45" />
+    <ReferenceAssembly PathName="c:\users\arca\documents\visual studio 2015\projects\appstudtest\appstudtest\appstudtest\bin\debug\appstudtest.dll" HashGuid="2dea971d-2a67-498d-7b1a-425808d581b0" />
+    <ReferenceAssembly PathName="c:\users\arca\documents\visual studio 2015\projects\appstudtest\packages\newtonsoft.json.9.0.1\lib\portable-net45+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="424e6aa8-ba94-c678-e707-af9fe9838e1a" />
+    <ReferenceAssembly PathName="c:\users\arca\documents\visual studio 2015\projects\appstudtest\packages\xam.plugin.media.2.3.0\lib\win8\plugin.media.abstractions.dll" HashGuid="ae244c5d-fb0b-f3fb-6b48-a0782f8af3ef" />
+    <ReferenceAssembly PathName="c:\users\arca\documents\visual studio 2015\projects\appstudtest\packages\xam.plugin.media.2.3.0\lib\win8\plugin.media.dll" HashGuid="c44d5b7a-8e18-a9ab-56b6-744cf0d603b0" />
+    <ReferenceAssembly PathName="c:\users\arca\documents\visual studio 2015\projects\appstudtest\packages\sqlitepcl.bundle_green.0.9.3\lib\win81\sqlitepcl.batteries.dll" HashGuid="f454b16c-61db-998b-5a30-b9178be2bada" />
+    <ReferenceAssembly PathName="c:\users\arca\documents\visual studio 2015\projects\appstudtest\packages\sqlitepcl.raw.0.9.3\lib\win81\sqlitepcl.raw.dll" HashGuid="0ebfe792-71de-e383-fad8-e17076cac3a8" />
+    <ReferenceAssembly PathName="c:\users\arca\documents\visual studio 2015\projects\appstudtest\packages\sqlitepcl.plugin.sqlite3.win81.0.9.3\lib\win81\sqlitepclplugin_esqlite3.dll" HashGuid="65318555-4391-7af6-1cee-89198df1a991" />
+    <ReferenceAssembly PathName="c:\users\arca\documents\visual studio 2015\projects\appstudtest\packages\xamarin.forms.2.0.0.6482\lib\win81\xamarin.forms.core.dll" HashGuid="c8a30eb8-5ae8-352d-b94f-7c913a7557ba" />
+    <ReferenceAssembly PathName="c:\users\arca\documents\visual studio 2015\projects\appstudtest\packages\xamarin.forms.2.0.0.6482\lib\win81\xamarin.forms.platform.dll" HashGuid="d9389e38-8a39-bed5-406b-7a34fe4704ea" />
+    <ReferenceAssembly PathName="c:\users\arca\documents\visual studio 2015\projects\appstudtest\packages\xamarin.forms.2.0.0.6482\lib\win81\xamarin.forms.platform.winrt.dll" HashGuid="dbd728c2-e21b-4125-2be0-f7931b605baa" />
+    <ReferenceAssembly PathName="c:\users\arca\documents\visual studio 2015\projects\appstudtest\packages\xamarin.forms.2.0.0.6482\lib\win81\xamarin.forms.platform.winrt.tablet.dll" HashGuid="cc26105e-9714-a8a4-7460-d1885be1ee00" />
+    <ReferenceAssembly PathName="c:\users\arca\documents\visual studio 2015\projects\appstudtest\packages\xamarin.forms.2.0.0.6482\lib\win81\xamarin.forms.xaml.dll" HashGuid="2828b56a-3245-7d15-6650-dfb4f30cfa91" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
